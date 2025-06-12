@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\services\\ijwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\services\\ijwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\services\\jwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\services\\jwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\visha\\downloads\\ecommercewebapiproject-master\\ecommercewebapiproject\\ecommercewebapiproject\\models\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:07:58.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250612165108_Updated Roles.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Migrations\\20250612165108_Updated Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:51:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\appsettings.json",
+              "RelativeToolTip": "EcommerceWebApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T16:21:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:43:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\OrderItem.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:30:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:10:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderReadDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\OrderReadDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderReadDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\OrderReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:38:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderItemCreateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\OrderItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderItemCreateDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\OrderItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:36:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\User.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:31:48.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Order.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:20:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250612162338_Init.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Migrations\\20250612162338_Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:23:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:23:08.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:11:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:01:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:10:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:13:08.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderCreateDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:31:33.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:49:02.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:51:24.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:11:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItemReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderItemReadDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\OrderItemReadDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\OrderItemReadDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\OrderItemReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:01:03.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtServiceToken.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\IJwtServiceToken.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Services\\IJwtServiceToken.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\IJwtServiceToken.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Services\\IJwtServiceToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:12:00.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Category.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:54:16.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtServiceToken.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:11:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Product.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:40:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\ProductReadDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\ProductReadDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\ProductReadDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\ProductReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:56:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\DTO\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\DTO\\ProductCreateDto.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Models\\DTO\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:59:33.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
