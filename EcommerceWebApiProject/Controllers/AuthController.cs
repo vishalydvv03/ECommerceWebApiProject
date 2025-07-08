@@ -52,7 +52,7 @@ namespace EcommerceWebApiProject.Controllers
             var user = await context.Users.FirstOrDefaultAsync(u => u.Email == dto.Email && !u.IsDeleted);
             if (user==null)
             {
-                return Unauthorized("User Does not exist");
+                return NotFound("User Does not exist");
             }
 
             var result = hasher.VerifyHashedPassword(user, user.Password, dto.Password);

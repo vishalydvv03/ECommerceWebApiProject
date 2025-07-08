@@ -1,6 +1,6 @@
 ﻿using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.DTO;
-using EcommerceWebApiProject.Repository;
+using EcommerceWebApiProject.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,8 +10,8 @@ namespace EcommerceWebApiProject.Controllers
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        private readonly IOrderRepository orderRepo;
-        public OrdersController(IOrderRepository orderRepo)
+        private readonly IOrderService orderRepo;
+        public OrdersController(IOrderService orderRepo)
         {
             this.orderRepo = orderRepo;
         }

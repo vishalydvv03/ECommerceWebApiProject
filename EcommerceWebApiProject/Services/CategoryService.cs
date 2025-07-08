@@ -3,12 +3,12 @@ using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public class CategoryRepository : ICategoryRepository
+    public class CategoryService : ICategoryService
     {
         private readonly AppDbContext context;
-        public CategoryRepository(AppDbContext context)
+        public CategoryService(AppDbContext context)
         {
             this.context = context;
             

@@ -1,6 +1,6 @@
 ﻿using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.DTO;
-using EcommerceWebApiProject.Repository;
+using EcommerceWebApiProject.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -14,8 +14,8 @@ namespace EcommerceWebApiProject.Controllers
     [Authorize(Roles ="Admin")]
     public class CategoriesController : ControllerBase
     {
-        private readonly ICategoryRepository categoryRepo;
-        public CategoriesController(ICategoryRepository categoryRepo)
+        private readonly ICategoryService categoryRepo;
+        public CategoriesController(ICategoryService categoryRepo)
         {
             this.categoryRepo = categoryRepo;
         }

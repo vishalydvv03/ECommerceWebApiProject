@@ -1,9 +1,9 @@
 ﻿using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.DTO;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public interface ICategoryRepository
+    public interface ICategoryService
     {
         Task<IEnumerable<Category>> GetAllCategoriesAsync();
         Task<Category?> GetCategoryByIdAsync(int id);

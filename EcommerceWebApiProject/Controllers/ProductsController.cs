@@ -1,5 +1,5 @@
 ﻿using EcommerceWebApiProject.Models.DTO;
-using EcommerceWebApiProject.Repository;
+using EcommerceWebApiProject.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,8 +11,8 @@ namespace EcommerceWebApiProject.Controllers
     [Authorize(Roles ="Admin")]
     public class ProductsController : ControllerBase
     {
-        private readonly IProductRepository productRepo;
-        public ProductsController(IProductRepository productRepo)
+        private readonly IProductService productRepo;
+        public ProductsController(IProductService productRepo)
         {
             this.productRepo = productRepo;
         }

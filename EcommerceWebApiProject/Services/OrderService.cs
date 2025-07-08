@@ -5,12 +5,12 @@ using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public class OrderRepository : IOrderRepository
+    public class OrderService : IOrderService
     {
         private readonly AppDbContext context;
-        public OrderRepository(AppDbContext context)
+        public OrderService(AppDbContext context)
         {
             this.context = context;
         }

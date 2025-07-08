@@ -1,9 +1,9 @@
 ﻿using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.DTO;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public interface IOrderRepository
+    public interface IOrderService
     {
         Task<IEnumerable<Order>> GetAllOrdersAsync();
         Task<Order?> GetOrderByIdAsync(int id);

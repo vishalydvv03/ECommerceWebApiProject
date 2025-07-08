@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWWlXFdJesA=",
+  "dgSpecHash": "nNuTmo3COrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\visha\\Downloads\\ECommerceWebApiProject-master\\ECommerceWebApiProject\\EcommerceWebApiProject\\EcommerceWebApiProject.csproj",
+  "projectFilePath": "C:\\Users\\visha\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\EcommerceWebApiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

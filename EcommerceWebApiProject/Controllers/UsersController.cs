@@ -1,7 +1,7 @@
 ﻿using EcommerceWebApiProject.Models;
 using EcommerceWebApiProject.Models.Data;
 using EcommerceWebApiProject.Models.DTO;
-using EcommerceWebApiProject.Repository;
+using EcommerceWebApiProject.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -15,8 +15,8 @@ namespace EcommerceWebApiProject.Controllers
     public class UsersController : ControllerBase
     {
         private readonly AppDbContext context;
-        private readonly IUserRepository userRepo;
-        public UsersController(AppDbContext context, IUserRepository userRepo)
+        private readonly IUserService userRepo;
+        public UsersController(AppDbContext context, IUserService userRepo)
         {
             this.context = context;
             this.userRepo = userRepo;

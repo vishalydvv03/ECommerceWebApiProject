@@ -1,8 +1,8 @@
 ﻿using EcommerceWebApiProject.Models;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public interface IUserRepository
+    public interface IUserService
     {
 
         Task<IEnumerable<User>> GetAllAsync();

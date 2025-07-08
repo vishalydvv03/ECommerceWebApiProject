@@ -2,12 +2,12 @@
 using EcommerceWebApiProject.Models.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace EcommerceWebApiProject.Repository
+namespace EcommerceWebApiProject.Services
 {
-    public class UserRepository : IUserRepository
+    public class UserService : IUserService
     {
         private readonly AppDbContext context;
-        public UserRepository(AppDbContext context)
+        public UserService(AppDbContext context)
         {
             this.context = context;
         }
